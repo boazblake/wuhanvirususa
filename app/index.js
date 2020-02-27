@@ -1,4 +1,4 @@
-import routes from "./app.js"
+import WuhanVirus from "./app.js"
 import model from "./model.js"
 
 const root = document.body
@@ -47,4 +47,4 @@ model.settings.profile = getProfile(winW)
 
 checkWidth(winW)
 
-m.route(root, "/home", routes(model))
+m.mount(root, WuhanVirus(model))

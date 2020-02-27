@@ -1,5 +1,5 @@
 {
-  "name": "id-cards",
+  "name": "wuhan-virus-in-usa",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -14,8 +14,11 @@
   },
   "dependencies": {
     "@mithril-icons/clarity": "^1.2.0",
+    "chartjs": "^0.3.24",
     "mithril": "^1.1.6",
     "mithril-stream": "^2.0.0",
+    "moment": "^2.24.0",
+    "ramda": "^0.27.0",
     "spectre.css": "^0.5.8"
   },
   "devDependencies": {

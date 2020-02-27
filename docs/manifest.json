@@ -1,6 +1,6 @@
 {
-  "short_name": "id-cards",
-  "name": "idcards",
+  "short_name": "wuhan-virus-epidemic-in-usa",
+  "name": "wuhan_virus_epidemic_in_usa",
   "icons": [
     {
       "src": "./icons/android-icon-36x36.png",
@@ -39,7 +39,7 @@
       "density": "4.0"
     }
   ],
-  "start_url": "/idcards/#!/home",
+  "start_url": "/wuhanvirususa",
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/",

@@ -1,10 +1,8 @@
 const model = {
-  state: {},
-  settings: {},
-  page: "",
-  idCards: [],
-  stream: undefined,
-  card: { front: undefined, back: undefined, name: undefined }
+  data: { wuhan: null, details: null },
+  err: null,
+  state: null,
+  settings: {}
 }
 
 export default model
